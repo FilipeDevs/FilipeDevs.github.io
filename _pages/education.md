@@ -5,11 +5,11 @@ permalink: /education/
 author_profile: true
 ---
 
-![HE2B-ESI LOGO](/images/Logo-esi.png){: .align-right width="140px"}
+[![HE2B-ESI LOGO](/images/Logo-esi.png){: .align-right width="140px"}](https://he2b.be/etudiant/)
 
 ### Bachelor of Computer Science (Application Development Orientation)
 
-- **School:** HE2B - ESI - Ecole Supérieure d'Informatique
+- **School:** [HE2B - ESI - Ecole Supérieure d'Informatique](https://he2b.be/etudiant/)
 - **Location:** Brussels, Belgium
 - **Period:** 09/2021 - 06/2024
 

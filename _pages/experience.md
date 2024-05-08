@@ -5,13 +5,13 @@ permalink: /experience/
 author_profile: true
 ---
 
-![ETNIC LOGO](/images/etnic_logo.png){: .align-right width="140px"}
+[![ETNIC LOGO](/images/etnic_logo.png){: .align-right width="140px"}](https://www.etnic.be/)
 
-## [L'ETNIC](https://www.etnic.be/)
+## L'ETNIC
 
 - **Position:** Full Stack Developer Intern
 - **Location:** Brussels, Belgium
-- **Period:** 02/2024 - Present
+- **Period:** 02/2024 - 05/2024
 
 ### Description
 

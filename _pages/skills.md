@@ -24,4 +24,4 @@ Git, Docker, LangChain, Postman
 
 ### Other Skills
 
-Scrum methodology, System Analysis and Design (UML), LaTeX, JWT
+Scrum methodology, System Analysis and Design (UML)

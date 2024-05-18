@@ -23,6 +23,14 @@ Throughout the internship, I collaborated closely with a small team of developer
 
 This experience allowed me to enhance my technical skills and gain valuable insight into integrating innovative solutions into real-world projects. It was also my first interaction with generative artificial intelligence and its use cases in practical applications.
 
+### Achievements
+
+- Designed and developed an internal web platform for discussion and document management.
+- Developed the application's **REST API using FastAPI**, integrated it with a **MongoDB** persistence system, and implemented integration tests with **pytest**.
+- Implemented an **asynchronous task execution system (Task Queue)** using **Celery** and **Redis**, enabling the management of requests and long-running background processes.
+- Developed various reusable components in **Angular 17**, including advanced form templates, navigation components, and data management services.
+- Implemented a conversational chatbot using a **Retrieval-Augmented Generation (RAG) architecture**, leveraging generative AI and vector search to provide users with contextualized responses based on documents.
+
 ### Tech Stack
 
 - **Frontend:** Angular, TypeScript, Angular Material, HTML, SCSS

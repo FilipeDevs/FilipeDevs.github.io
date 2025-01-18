@@ -20,7 +20,7 @@ MongoDB, MySQL
 
 ### Tools & Technologies
 
-Git, Docker, LangChain, Postman
+Git, Docker, LangChain, Postman, JUnit
 
 ### Other Skills
 

@@ -1,23 +1,26 @@
 ---
-title: "Weather App"
-excerpt: "A minimalistic android weather app<br/><img src='https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/9/f/b/9fb7262e38_50154418_3-dims.jpg' style='width:650px;'>"
+title: "Job Board"
+excerpt: "A simple job board<br/><img src='https://github.com/FilipeDevs/jobHub/blob/main/demo/home.png?raw=true' style='width:650px;'>"
 collection: portfolio
 ---
 
-A simple and straightforward weather application developed for Android.
+A minimalistic job post web application developed in Laravel. This application allows employers to post job listings, and job seekers to explore and apply for available positions.
 
-Weather data is provided by the [OpenWeatheMap API](https://openweathermap.org/api)
-
-### [Git repository here](https://github.com/FilipeDevs/weatherAppAndroid)
+### [Git repository here](https://github.com/FilipeDevs/jobHub)
 
 ## Tech Stack
 
-Android Studio (Jetpack Compose / Kotlin)
+- Laravel
+- TailwindCSS
+- AlpineJs
+- MySQL
 
 ## Features
 
-- Current Weather
-- Short-term forecast
-- Geolocation
-- City List Management
-- Integrated Widget
+- Authentication system
+- Job posting
+- Job search
+
+## Screenshots
+
+![Demo](https://github.com/FilipeDevs/jobHub/blob/main/demo/home.png?raw=true)

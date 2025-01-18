@@ -1,26 +1,11 @@
 ---
-title: "Job Board"
-excerpt: "A simple job board<br/><img src='https://github.com/FilipeDevs/jobHub/blob/main/demo/home.png?raw=true' style='width:650px;'>"
+title: "Console Chess Game"
+excerpt: "Console-based chess game<br/><img src='https://cdn.pixabay.com/photo/2016/07/12/11/39/checkmate-1511866_640.jpg' style='width:650px;'>"
 collection: portfolio
 ---
 
-A minimalistic job post web application developed in Laravel. This application allows employers to post job listings, and job seekers to explore and apply for available positions.
+Java project made for one my courses at HE2B-ESI.
 
-### [Git repository here](https://github.com/FilipeDevs/jobHub)
+This Java chess game application provides a classic chess experience for two players within the command-line interface. Players can engage in strategic battles, making moves based on traditional chess rules.
 
-## Tech Stack
-
-- Laravel
-- TailwindCSS
-- AlpineJs
-- MySQL
-
-## Features
-
-- Authentication system
-- Job posting
-- Job search
-
-## Screenshots
-
-![Demo](https://github.com/FilipeDevs/jobHub/blob/main/demo/home.png?raw=true)
+### [Git repository here](https://github.com/FilipeDevs/consoleChessGame)

@@ -1,11 +1,19 @@
 ---
-title: "Console Chess Game"
-excerpt: "Console-based chess game<br/><img src='https://cdn.pixabay.com/photo/2016/07/12/11/39/checkmate-1511866_640.jpg' style='width:650px;'>"
+title: "Sorting Race"
+excerpt: "Algorithm visualizer<br/><img src='https://i.imgur.com/W5r3gnN.png' style='width:650px;'>"
 collection: portfolio
 ---
 
-Java project made for one my courses at HE2B-ESI.
+This Java project was developed for one of my courses at HE2B-ESI.
 
-This Java chess game application provides a classic chess experience for two players within the command-line interface. Players can engage in strategic battles, making moves based on traditional chess rules.
+The project serves as a tool to visualize and compare the complexity and performance of two distinct sorting algorithms: Bubble Sort and Merge Sort.
 
-### [Git repository here](https://github.com/FilipeDevs/consoleChessGame)
+The architecture used is MVC.
+
+Users have the ability to select the size of the array they wish to sort, specify the number of threads to be utilized, and choose the algorithm to be employed.
+
+### [Git repository here](https://github.com/FilipeDevs/sortingRace)
+
+## Screenshots
+
+![Demo](https://i.imgur.com/W5r3gnN.png)

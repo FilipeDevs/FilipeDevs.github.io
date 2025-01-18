@@ -1,43 +1,43 @@
 ---
-title: "Hotel Management System"
-excerpt: "Simple hotel management system<br/><img src='https://i.imgur.com/L6zv3RI.png' style='width:650px;'>"
+title: "IssueTracker"
+excerpt: "Simple issue tracker for small teams<br/><img src='https://i.imgur.com/RG2m8gS.png' style='width:650px;'>"
 collection: portfolio
 ---
 
-Straightforward hotel booking web platform where users can browse and book rooms. It also includes an admin panel for managing rooms and bookings.
+IssueTracker serves as an integrated project management solution designed to monitor the advancement of various projects and teams. It empowers users to initiate projects and allocate developers to specific tasks. Within each project users can generate tickets to report bugs propose new features and more. Additionally the platform provides communication through comment streams associated with individual tickets.
 
-### [Git repository here](https://github.com/FilipeDevs/hotelBookingApp)
+### [Git repository here](https://github.com/FilipeDevs/issueTracker)
 
 ## Tech Stack
 
-**Frontend:** React, React-Bootstrap
+**Frontend:** React, TailwindCSS, Flowbite, Toastify, Google-Charts
 
-**Backend:** Spring Boot, Spring Security (with JWT), JPA
+**Backend:** Laravel, Spatie
 
 **Database:** MySQL
 
 ## Features
 
 - Token based authentication
-- Role based authentication
-- Room booking
-- Room search
-- Admin panel
-- Room management
-- Booking management
-- Confirmation code search
-- Profile page
+- Role-based authentication
+- Project management capabilities
+- Team/contributors management for each project
+- Ticket generation
+- Ticket management
+- Comments
+- Project statistics
+- User management
 
 ## Screenshots
 
-![Home View](https://i.imgur.com/L6zv3RI.png)
+![Login View](https://i.imgur.com/n29W7JT.png)
 
-![Browse View](https://i.imgur.com/gvp8KLG.png)
+![Dashboard View](https://i.imgur.com/WJDvzdv.png)
 
-![Book View](https://i.imgur.com/VLrT7yo.png)
+![Project View](https://i.imgur.com/RG2m8gS.png)
 
-![Manage Rooms View](https://i.imgur.com/IsDXME4.png)
+![Ticket View](https://i.imgur.com/zE4P6K7.png)
 
-![Manage Bookings View](https://i.imgur.com/rSSowKD.png)
+![Assigned Tickets View](https://i.imgur.com/SXnN9V0.png)
 
-![Profile View](https://i.imgur.com/3iTYb9K.png)
+![User Admin View](https://i.imgur.com/1iaR04l.png)

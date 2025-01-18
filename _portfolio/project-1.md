@@ -1,39 +1,45 @@
 ---
-title: "MyAnimeSpot"
-excerpt: "Web application for tracking and discovering anime titles<br/><img src='https://i.imgur.com/WLiNPrP.png' style='width:650px;'>"
+title: "E-Commerce Platform"
+excerpt: "E-commerce shop website<br/><img src='https://i.imgur.com/ViYy4hs.png' style='width:650px;'>"
 collection: portfolio
 ---
 
-MyAnimeSpot is a minimalist web application inspired by anime platforms like [MyAnimeList](https://myanimelist.net/) and [Anilist](https://anilist.co/search/anime). It provides users with a straightforward way to track and explore anime titles, powered by the GraphQL [AniList API](https://anilist.gitbook.io/anilist-apiv2-docs/).
+An e-commerce website where users can explore featured products, browse by categories, apply filters for easy navigation, and view detailed product information. The platform includes related product suggestions, secure authentication with SSO powered by <a href="https://kinde.com/" target="_blank">Kinde</a>, and seamless Stripe-powered payments. It features a responsive design and an admin dashboard for efficient management, with a backend built using <a href="https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)" target="_blank">Hexagonal architecture</a> for scalability and maintainability.
 
-### [Git repository here](https://github.com/FilipeDevs/myAnimeSpot)
+### [Git repository here](https://github.com/FilipeDevs/e-commerce-web-app)
 
 ## Tech Stack
 
-**Frontend:** React, ReactQuery, ApolloClient, TailwindCSS, Flowbite, Toastify
+**Frontend:** Angular 18, TailwindCSS, DaisyUI
 
-**Backend:** Laravel
+**Backend:** Spring Boot 3
 
-**Database:** MySQL
+**Database:** PostgreSQL
 
 ## Features
 
-- Token based authentication
-- Anime list management
-- Browse capabilities
-- Responsive design
-- Dark mode toggle
-- Integrated toasts for feedback
-- Optimistic Updates
+- Featured Products Section
+- Organized Product Categories
+- Browsing Filters
+- Detailed Product Pages
+- Related Related Products
+- Fully Managed Authentication with SSO powered by <a href="https://kinde.com/" target="_blank">Kinde</a>
+- Responsive Design for All Devices
+- Secure Payment Processing via Stripe Integration
+- Comprehensive Admin Dashboard
 
 ## Screenshots
 
-![Home View](https://i.imgur.com/WLiNPrP.png)
+![Home View](https://i.imgur.com/ViYy4hs.png)
 
-![Browse View](https://i.imgur.com/vkUoZOv.png)
+![Catalog View](https://i.imgur.com/7JMgf2V.png)
 
-![Detail View](https://i.imgur.com/PSex4eR.png)
+![Cart View](https://i.imgur.com/pTqPsVM.png)
 
-![Dashboard View](https://i.imgur.com/qNFprIP.png)
+![Product Details View](https://i.imgur.com/DHbsPY1.png)
 
-![Dashboard View Dark](https://i.imgur.com/bOPxHsc.png)
+![Admin Products View](https://i.imgur.com/CmapaOI.png)
+
+![Stripe Integration](https://i.imgur.com/mEuazgD.png)
+
+![Orders View](https://i.imgur.com/qYClVHQ.png)

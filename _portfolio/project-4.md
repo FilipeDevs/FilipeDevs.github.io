@@ -1,19 +1,43 @@
 ---
-title: "Stib Itinerary Planner"
-excerpt: "Desktop app for calculating the shortest path between two stations<br/><img src='https://i.imgur.com/yKCLDpr.png' style='width:650px;'>"
+title: "Hotel Management System"
+excerpt: "Simple hotel management system<br/><img src='https://i.imgur.com/L6zv3RI.png' style='width:650px;'>"
 collection: portfolio
 ---
 
-A Java project made for one my courses at HE2B-ESI.
+Straightforward hotel booking web platform where users can browse and book rooms. It also includes an admin panel for managing rooms and bookings.
 
-A JavaFx application that allows to calculate the shortest route between two stations on the [STIB](https://www.stib-mivb.be/index.htm?) metro network. The application also implements a CRUD to manage favorites routes.
+### [Git repository here](https://github.com/FilipeDevs/hotelBookingApp)
 
-It uses the Dijkstra algorithm to calculate the shortest path between two stations (in this case the metro network is represented by a Graph containing multiple nodes, each node representing a station)
+## Tech Stack
 
-Design Pattern : MVP along with Observer/Observable
+**Frontend:** React, React-Bootstrap
 
-### [Git repository here](https://github.com/FilipeDevs/stibMetroItinerary)
+**Backend:** Spring Boot, Spring Security (with JWT), JPA
+
+**Database:** MySQL
+
+## Features
+
+- Token based authentication
+- Role based authentication
+- Room booking
+- Room search
+- Admin panel
+- Room management
+- Booking management
+- Confirmation code search
+- Profile page
 
 ## Screenshots
 
-![Dashboard View](https://i.imgur.com/yKCLDpr.png)
+![Home View](https://i.imgur.com/L6zv3RI.png)
+
+![Browse View](https://i.imgur.com/gvp8KLG.png)
+
+![Book View](https://i.imgur.com/VLrT7yo.png)
+
+![Manage Rooms View](https://i.imgur.com/IsDXME4.png)
+
+![Manage Bookings View](https://i.imgur.com/rSSowKD.png)
+
+![Profile View](https://i.imgur.com/3iTYb9K.png)

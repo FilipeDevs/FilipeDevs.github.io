@@ -14,11 +14,11 @@ author_profile: true
 - **Period:** 09/2025 - Present
 - **Status:** In Progress
 
-#### Description
+### Description
 
 This master's degree provides advanced theoretical and practical training in computer science, with a strong emphasis on mathematical foundations, algorithms and research-oriented methodologies. The program aims to deepen analytical and problem-solving skills while preparing students for both industry and academic careers.
 
-#### Relevant Coursework
+### Relevant Coursework
 
 - Machine Learning
 - Statistics
@@ -38,11 +38,11 @@ This master's degree provides advanced theoretical and practical training in com
 - **Period:** 09/2021 - 06/2024
 - **Status:** Graduated (Cum laude)
 
-#### Description
+### Description
 
 This bachelor’s degree focuses mainly on software engineering, offering a curriculum oriented towards the creation, deployment, and maintenance of applications for the business world. The program covers a wide range of topics, from understanding and analyzing needs to technical implementation, including design, programming, validation, and user training.
 
-#### Relevant Coursework
+### Relevant Coursework
 
 - Programming Languages: JAVA, PHP, C++
 - Frameworks : Spring Boot, Laravel
